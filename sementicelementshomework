@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Facts about dogs
+        </title>
+    </head>
+    <body>
+        <header>
+        <h1>
+            Facts about dogs
+        </h1>
+        <br>
+        <section>
+<p1>
+    Remarkable sense of smell: Dogs have up to 300 million olfactory receptors.
+Color vision: They can see colors like blue and yellow.
+Communication: Dogs use body language, vocalizations, and scent to communicate.
+Domestication history: They have been domesticated for thousands of years, evolving from wolves.
+Breed diversity: There is a wide range of breeds, each with unique roles and physical features.
+</p1>
+        </section>
+        <footer>
+            <p2>
+                Dogs have sweat glands at the bottom of their paws, which helps them cool down on hot summer days1.
+Dogs are the most popular pet on the planet, with a third of all households around the world having a dog2.
+Dogs' noses are wet to help absorb scent chemicals
+            </p2>
+        </footer>
+<img src="dog.jpg">
+    </header>
+    </body>
+</html>
